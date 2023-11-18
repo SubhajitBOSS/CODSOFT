@@ -1,1 +1,4 @@
 # CODSOFT
+CODSOFT C++ Internship 
+Name: SUBHAJIT NAG
+Batch: NOV BATCH P17
